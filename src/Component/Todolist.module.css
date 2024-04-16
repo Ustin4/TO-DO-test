@@ -1,0 +1,9 @@
+.isDone {
+	text-decoration: line-through;
+}
+
+.count {
+	opacity: 0.5;
+	font-size: 12px;
+	padding: 5px;
+}
